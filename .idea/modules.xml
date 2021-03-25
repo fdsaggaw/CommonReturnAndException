@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ReturnAndExcption.iml" filepath="$PROJECT_DIR$/ReturnAndExcption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReturnAndException.iml" filepath="$PROJECT_DIR$/ReturnAndException.iml" />
     </modules>
   </component>
 </project>
