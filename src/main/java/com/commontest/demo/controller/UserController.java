@@ -16,6 +16,7 @@ public class UserController {
         List<User> userList =new ArrayList<>();
         userList.add(new User(1l,"messi",23));
         userList.add(new User(2l,"cristiano",23));
+        System.out.println("dd");
         return userList;
     }
     @GetMapping("/{id}")
